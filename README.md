@@ -4,5 +4,6 @@
 |  2  	| Takolah  - Jasa Pengolahan Data                     | Laravel 10, Tailwind, Minio, MariaDB            | https://takolah.co.id            	    |
 |  3  	| Rekrutmen Bimbel NF 	                              | Laravel 10, Tailwind, Minio, MariaDB            | https://rekrutmen.bimbelnurulfikri.id |
 |  4  	| P2B Distribusi Bimbel NF 	                          | Laravel 10, Tailwind, Minio, MariaDB            | https://p2bd.nurulfikri.id/login      |
-|  5  	| Kelas Indonesia (Kelasin) - Course 	                | Laravel, Tailwind, Minio, MariaDB, Inertia, Vue3| soon...      |
+|  5  	| Kelas Indonesia (Kelasin) - Course 	                | Laravel, Tailwind, Minio, MariaDB, Inertia, Vue3| soon...                               |
+|  6  	| Restuikami - Undangan pernikahan online 	          | Laravel, Tailwind, Minio, MariaDB, Xendit       | soon...                               |
 
